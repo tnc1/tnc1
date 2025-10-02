@@ -11,8 +11,8 @@
 ### 💻 Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Code-Python-blue?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-PHP-777BB4?logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Code-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Code-PHP-777BB4?logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Code-HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Code-CSS3-1572B6?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?logo=gnu-bash&logoColor=white" />
