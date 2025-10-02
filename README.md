@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#60a5fa">Your Name</span></h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#60a5fa">Tuncay AKBAS</span></h1>
 
 <p align="center">
   <b>Full Stack Developer | Solutions Architect | Cloud & DevOps Engineer</b><br/>
