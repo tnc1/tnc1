@@ -50,11 +50,4 @@
   <img src="https://img.shields.io/badge/Location-Boston%2C%20MA-lightgrey?logo=pinboard&logoColor=white" />
 </p>
 
----
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tuncayakbas&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuncayakbas&layout=compact&theme=radical" alt="Top Languages" height="160"/>
-</p>
