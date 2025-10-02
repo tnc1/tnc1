@@ -165,9 +165,5 @@
 
 ---
 
-## 📫 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tuncayakbas/"><img src="https://img.shields.io/badge/LinkedIn-Tuncay%20AKBAS-blue?logo=linkedin&logoColor=white" /></a>
-</p>
 
