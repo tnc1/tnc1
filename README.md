@@ -169,9 +169,6 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-your.email%40gmail.com-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/yourprofile/"><img src="https://img.shields.io/badge/LinkedIn-Your%20Name-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-yourusername-black?logo=github&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Your%20City%2C%20State-lightgrey?logo=map-pin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/tuncayakbas/"><img src="https://img.shields.io/badge/LinkedIn-Tuncay%20AKBAS-blue?logo=linkedin&logoColor=white" /></a>
 </p>
 
