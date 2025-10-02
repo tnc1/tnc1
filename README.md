@@ -1,8 +1,7 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#60a5fa">Tuncay AKBAS</span></h1>
 
 <p align="center">
-  <b>Full Stack Developer | Solutions Architect | Cloud & DevOps Engineer</b><br/>
-  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+  <b>Principal Software Engineer | Solutions Architect | Cloud & DevOps Engineer</b><br/>
 </p>
 
 ---
