@@ -25,12 +25,6 @@
   <img src="https://img.shields.io/badge/Library-jQuery-0769AD?logo=jquery&logoColor=white" />
 </p>
 
-### ⚙️ Backend Frameworks
-<p>
-  <img src="https://img.shields.io/badge/Framework-Laravel-FF2D20?logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framework-Yii-0073AA?logo=yii&logoColor=white" />
-</p>
-
 ### ☁️ Cloud Platforms
 <p>
   <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?logo=amazonaws&logoColor=white" />
