@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#60a5fa">Tuncay AKBAS</span></h1>
 
 <p align="center">
-  <b>Principal Software Engineer | Solutions Architect | Cloud & DevOps Engineer</b><br/>
+  <b>Principal Software Engineer | Solutions Architect</b><br/>
 </p>
 
 ---
